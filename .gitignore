@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Raw MNIST dataset (auto-downloaded by torchvision on first run)
+data/MNIST/
+
+# Local scratch notes -- not part of the deliverable
+temp_notes/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
