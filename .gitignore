@@ -6,7 +6,7 @@ __pycache__/
 # Raw MNIST dataset (auto-downloaded by torchvision on first run)
 data/MNIST/
 
-# Local scratch notes -- not part of the deliverable
+# Local scratch notes
 temp_notes/
 
 # Jupyter
